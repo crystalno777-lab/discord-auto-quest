@@ -37,7 +37,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/SUDIN010/discord-auto-quest.git
+git clone https://github.com/xdluru/discord-auto-quest
 cd discord-auto-quest
 python -m venv .venv
 
